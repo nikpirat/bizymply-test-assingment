@@ -1,0 +1,7 @@
+.venv/
+.deepeval/
+__pycache__/
+.pytest_cache/
+*.pyc
+station_health.db
+.idea/
